@@ -29,7 +29,7 @@ class student
         cout<<"student name : "<<name<<endl;
         for ( i = 0; i < 3; i++)
         {
-            cout<<"subject mark is : "<<mark[i]<<endl;
+            cout<<"3 subject mark is : "<<mark[i]<<endl;
         }
         
         cout<<"total is : "<<total<<endl;
